@@ -4,7 +4,7 @@ Friend or Foe
 Requires
 --------
 - deck of 52 playing cards
-- 3 x six-sided die (or 1 thrown 3 times)
+- 2 x six-sided die (or 1 thrown 2 times)
 - 2-4 players
 - pen & paper to note score
 
@@ -29,18 +29,23 @@ All taxes remain in temporary storage until banked in the safety of a royal hous
 
 If you land on a Court card:
 - Friend: you can bank your taxes with the royal court. Note these down in a new total.
-- Foe: do battle with two D6 where a J=10, Q=11, K=12. Win: Keep taxes but do not bank. Lose: opponent banks your tax.
+- Foe: do battle with two D6 where a J=10, Q=11, K=12.
+-- Win: Keep your taxes but do not bank. Remove the royal card.
+-- Lose: opponent banks your tax.
 
-Every card remains face-up once turned over. You can revisit any card you like. 
+You can spend un-banked taxes to add 1 to a dice roll. You can spend one for each face-up royal card of your suit.
+
+Every card remains face-up once turned over. You can revisit any card you like.
 
 On your next turn, you must move to another adjacent card. No diagonal moves.
 
-Each player takes it in turns to move around the board, collecting taxes and banking them. Aa the game progresses the map of the kingdom becomes apparent to all players. 
+Each player takes it in turns to move around the board, collecting taxes and banking them. As the game progresses the map of the kingdom becomes apparent to all players. 
+
 
 End Game
 --------
 When every card of one complete suit is face up, the game ends.
 
-Every player who has their king face up may collect half of their banked taxes as reward.
+Every player may collect half of their banked taxes as reward.
 
 The winner is the player who has collected the most reward.
