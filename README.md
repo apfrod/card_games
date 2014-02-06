@@ -1,4 +1,4 @@
-card_games
+card games
 ==========
 
-games using an ordinary deck of cards
+Rules for games using an ordinary deck of cards, and other common items like a D6 or a coin.
